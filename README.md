@@ -1,4 +1,4 @@
-# Wellness Marketplace & Telemedicine Platform
+# Wellness Marketplace for Alternative Therapies
 **Infosys Springboard Internship Project**
 
 A comprehensive full-stack healthcare and wellness marketplace application that connects patients with healthcare practitioners while offering wellness products, smart scheduling, integrated AI chatbot assistance, and community features.

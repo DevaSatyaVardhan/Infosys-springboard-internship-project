@@ -1,0 +1,36 @@
+# Node.js
+node_modules/
+build/
+dist/
+coverage/
+.env*
+!.env.example
+
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# IDEs and Editors
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Frontend build
+demo-frontend/build/
+
+# Backend build
+demo-backend/demo/target/
